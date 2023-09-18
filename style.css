@@ -59,3 +59,10 @@ margin-left: 1rem;
 color: #fff;
 border-bottom-color: #fff;
 }
+
+
+.scrolling {
+  background: black;
+  opacity: 80%;
+  transition: all 1s;
+}
